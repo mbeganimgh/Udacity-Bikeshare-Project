@@ -50,6 +50,8 @@ def get_filters():
             print("The only cities available now are 'chicago', \
 'new york city', 'washington'")
             continue
+        else:
+            print('Please enter a valid city')
 
         month = input(
             '\n Which month in the first 6 months of the year are you\
