@@ -14,3 +14,9 @@ Using python to explore Bikeshare data to make it user friendly
 ACKNOWLEDGEMENT
 Great thanks to the Udacity mentors and the students hub.
 An opportunity also to engage with students from across the globe to learn.
+
+
+REFERENCE
+
+www.w3schools.com
+www.pandas.pydata.org
